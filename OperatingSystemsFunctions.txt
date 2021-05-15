@@ -1,5 +1,1 @@
-Windows operating system
-Productivity= Windows has many productivity features like handling e-mails and schedules, following directions and organizing notes, are included in Windows 8 and 10. 
-Plus, Mail and Calendar can link to your account, so a user can access to very quickly like the Mail application and you can add important any dates to the calendar: all of these are display at the desktop and can easily access.
-Most application can be only accessed through Windows because Windows is dominated the software industry, so most application can be allowed only in WIndows. 
-Lastly, Windows are better well equip with application that are helpful for the computer than the other operating system because it gives out a month of free virus free app that can take out viruses in your computer, and have very helpful application.
+Security= the operating system uses a password protection to protect the user data and information. Futhermore, it prevents unauthorized access to programs and user data. Sometimes, the operating system will give a month of free virus-free program that protects the user computer, but some of them didn't give out any of that.
